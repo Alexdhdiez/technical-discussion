@@ -10,3 +10,7 @@ This is a demo repo for shareing ideas around communication
 ### Gist
 
 This is a good example on how to share my code [my code](https://gist.github.com/Alexdhdiez/ed46ab6254780cda1be59e3f9ad4dba2)
+
+### Colab Example
+
+This is the [notebook](https://github.com/Alexdhdiez/technical-discussion/blob/main/technical_docs.ipynb)
